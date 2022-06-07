@@ -22,10 +22,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <sonar.host.url>
-                    http://3.84.42.93:9000/
-                </sonar.host.url>
-		<sonar.login>45442e7b296550be7072697f9c74cb796f0548cc</sonar.login>
+                <sonar.host.url> http://44.202.219.16:9000 </sonar.host.url>
             </properties>
         </profile>
         <profile>
